@@ -1,4 +1,4 @@
-var disqus_shortname="catatanelegant-1";
+var disqus_shortname="catatansaya";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
@@ -19,7 +19,7 @@ var disqus_url = disqus_blogger_current_url;
         comment_block.style.display = 'block';
         var dsq = document.createElement('script');
         dsq.async = true;
-        dsq.src = '//' + disqus_shortname + 'catatanelegant-1.disqus.com/embed.js';
+        dsq.src = '//' + disqus_shortname + 'catatansaya.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.body).appendChild(dsq);
     }
 })();
